@@ -1,0 +1,14 @@
+{
+  "name": "touchbar-badumtss",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "author": "Julien Usson",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
